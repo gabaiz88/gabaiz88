@@ -7,6 +7,8 @@
   
 
 
+
+- Systems Analyst student👨‍🎓  
   
   
 - ⚡ I’m currently learning REACT.JS⚛️ and CYPRESS.IO🌲  
