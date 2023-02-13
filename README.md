@@ -8,11 +8,10 @@
 
   
   
-
-- ⚡ I’m currently learning REACT.JS and CYPRESS  
+- ⚡ I’m currently learning REACT.JS⚛️ and CYPRESS.IO🌲  
   
 
-  
+- I´m passionate about technology💻, innovation💾 and big challenging👨‍🚀  
   
 
   
