@@ -66,7 +66,7 @@
 <div align="center">
   
 <a href="https://mi-portfolio.gabaiz88.vercel.app/" target="_blank">
-  <img src=https://usercontent.one/wp/www.paulonova.one/wp-content/uploads/2020/10/port-logo.png?media=1691854726 alt=portfolio width=100 style="margin-bottom: 5px;" />
+  <img src=https://usercontent.one/wp/www.paulonova.one/wp-content/uploads/2020/10/port-logo.png?media=1691854726 alt=portfolio width=100 style="margin: 5px;" />
 </a>  
 <a href="https://linkedin.com/in/aizman" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
